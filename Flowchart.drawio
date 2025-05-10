@@ -1,0 +1,162 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2100" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="HKzFtvgX0AT5v7i42USA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-0" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-3" target="HKzFtvgX0AT5v7i42USA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-3" value="Pasien mengisi form pendaftaran" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-5" target="HKzFtvgX0AT5v7i42USA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-9" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HKzFtvgX0AT5v7i42USA-8">
+          <mxGeometry x="-0.1631" y="-3" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-5" target="HKzFtvgX0AT5v7i42USA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-12" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HKzFtvgX0AT5v7i42USA-11">
+          <mxGeometry x="-0.0831" y="-3" relative="1" as="geometry">
+            <mxPoint y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-5" value="Pasien Lama?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="270" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-7" target="HKzFtvgX0AT5v7i42USA-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="390" />
+              <mxPoint x="390" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-7" value="Isi&lt;br/&gt;no. RM, no whatsapp, pilihan hari dan waktu kontrol, dan dokter" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-10" target="HKzFtvgX0AT5v7i42USA-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="390" />
+              <mxPoint x="390" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-10" value="Isi&lt;br/&gt;data lengkap pasien, no whatsapp, pilihan hari dan waktu kontrol, dan dokter" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="277.5" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-13" target="HKzFtvgX0AT5v7i42USA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-18" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HKzFtvgX0AT5v7i42USA-17">
+          <mxGeometry x="-0.1294" relative="1" as="geometry">
+            <mxPoint x="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-13" target="HKzFtvgX0AT5v7i42USA-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="470" />
+              <mxPoint x="690" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-20" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HKzFtvgX0AT5v7i42USA-19">
+          <mxGeometry x="-0.5725" y="-2" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-13" value="Data Valid?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-16" target="HKzFtvgX0AT5v7i42USA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-16" value="Sistem mengirimkan konfirmasi pendaftaran melalui email atau WhatsApp" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-21" target="HKzFtvgX0AT5v7i42USA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-21" value="Menampilkan halaman konfirmasi pendaftaran online" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="680" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-24" target="HKzFtvgX0AT5v7i42USA-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-24" value="Formulir Pendaftaran" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-26" target="HKzFtvgX0AT5v7i42USA-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-32" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HKzFtvgX0AT5v7i42USA-29">
+          <mxGeometry x="-0.2857" y="1" relative="1" as="geometry">
+            <mxPoint x="2" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-26" target="HKzFtvgX0AT5v7i42USA-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-33" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HKzFtvgX0AT5v7i42USA-31">
+          <mxGeometry x="-0.2111" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-26" value="Apakah pasien lama BPJS?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="1060" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-28" target="HKzFtvgX0AT5v7i42USA-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-28" value="Registrasi di mesin APM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-30" target="HKzFtvgX0AT5v7i42USA-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-30" value="Registrasi ulang di Loket Registrasi Pendaftaran Online" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-34" target="HKzFtvgX0AT5v7i42USA-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-34" value="Mendapatkan nomor antrian sesuai urutan" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HKzFtvgX0AT5v7i42USA-39" target="HKzFtvgX0AT5v7i42USA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-39" value="&lt;div&gt;Pasien yang telah melakukan registrasi online&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;datang Minimal 1 jam sebelum&lt;/span&gt;&lt;/div&gt;&lt;div&gt;jadwal Poli Dokter&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="930" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzFtvgX0AT5v7i42USA-43" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="1310" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
